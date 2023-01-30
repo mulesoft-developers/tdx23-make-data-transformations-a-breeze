@@ -1,0 +1,20 @@
+{
+  "mascots": [
+    {
+      "name": "Astro",
+      "product": "Salesforce",
+      "facts": {
+         "pronoun": "They/Them",
+         "represents": "community"
+      }
+    },
+    {
+      "name": "Max the Mule",
+      "product": "MuleSoft",
+      "facts": {
+         "pronoun": "He/Him",
+         "represents": "Muleys"
+      }
+    },
+  ]
+}

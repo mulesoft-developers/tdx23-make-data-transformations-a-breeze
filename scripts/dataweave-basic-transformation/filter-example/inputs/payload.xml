@@ -1,0 +1,35 @@
+[
+ {
+   "title": "Make Data Transformations a Breeze with DataWeave",
+   "abstract": "",
+   "ratings":
+       {
+           "presenter": 9,
+           "content": 8,
+           "venue": 9
+       },
+   "date": "06 March 2023"
+ },
+ {
+   "title": "Engineering Apps for Resuse with MuleSoft",
+   "abstract": "",
+   "ratings":
+       {
+           "presenter": 5,
+           "content": 6,
+           "venue": 9
+       },
+   "date": "07 March 2023"
+ },
+ {
+   "title": "Secure Apps wherever they are deployed with Flex Gateway",
+   "abstract": "",
+   "ratings":
+       {
+           "presenter": 2,
+           "content": 8,
+           "venue": 4
+       },
+   "date": "07 March 2023"
+ }
+]

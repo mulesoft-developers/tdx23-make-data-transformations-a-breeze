@@ -1,7 +1,4 @@
-%dw 2.0
-output application/json
----
-/*{
+{
  "people": [
    {
      "category": "mascot",
@@ -26,4 +23,17 @@ output application/json
  ]
 }
 }
+
+/*
+%dw 2.0
+output application/json
+---
+
+people: (payload.mascots map {
+   category: "mascot",
+   name: ????,
+   info: {
+       ????
+   }
+
 */

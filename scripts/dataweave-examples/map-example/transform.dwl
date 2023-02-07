@@ -33,7 +33,9 @@ people: (payload.mascots map {
    category: "mascot",
    name: ????,
    info: {
-       ????
+       identity: ????
    }
+ }
+)
 
 */
